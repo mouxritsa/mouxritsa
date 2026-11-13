@@ -1,16 +1,29 @@
-## Hi there 👋
+### Hi there 👋 I'm Mouxritsa
 
-<!--
-**mouxritsa/mouxritsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DIY and Home Assistant enthusiast, building custom hardware, smart home automations, and Lovelace cards.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Project
+
+- 🏠 **[Hestia Flow Card](https://github.com/mouxritsa/Hestia-Flow-Card)**: A full-screen animated flow card for heating boilers, radiators, underfloor heating, and 3-way valves in Home Assistant.
+
+---
+
+### 🛠️ Tech Stack & Tools
+- **Smart Home:** Home Assistant, ESPHome, WLED, MQTT, Zigbee
+- **Electronics & DIY:** ESP32, Arduino, custom sensors & relays
+- **Fabrication:** 3D Printing (PETG), custom wiring & power distribution
+- **Development:** JavaScript, Lovelace custom cards
+
+---
+
+### 📺 Watch My Videos
+- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mouxritsa) GR
+
+---
+
+### ☕ Support My Work
+If you like my projects and want to support my open-source work:
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/mouxritsa)
