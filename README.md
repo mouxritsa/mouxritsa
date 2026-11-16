@@ -15,14 +15,6 @@ DIY and Home Assistant enthusiast, building custom hardware, smart home automati
 - **Electronics & DIY:** ESP32, Arduino, custom sensors & relays
 - **Fabrication:** 3D Printing (PETG), custom wiring & power distribution
 - **Development:** JavaScript, Lovelace custom cards
-- ## ESP32 code
-
-The relays (boiler enable and Turbo) are driven by an ESP32 over MQTT.
-Arduino code: https://pastebin.com/308g8yrZ
-
-Put your own WiFi, MQTT and OTA details in the first lines. If WiFi or MQTT is lost for more than 2 minutes, the ESP turns relays 6 and 7 off by itself.
-
----
 
 ### 📺 Watch My Videos 
 - [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/GHRnvWqrUoY) GR Hestia Flow Card
