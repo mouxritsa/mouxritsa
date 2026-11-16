@@ -19,7 +19,7 @@ DIY and Home Assistant enthusiast, building custom hardware, smart home automati
 ---
 
 ### 📺 Watch My Videos
-- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/GHRnvWqrUoY)) GR
+- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/GHRnvWqrUoY) GR
 
 ---
 
