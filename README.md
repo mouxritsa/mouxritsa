@@ -25,3 +25,4 @@ DIY and Home Assistant enthusiast, building custom hardware, smart home automati
 If you like my projects and want to support my open-source work:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/mouxritsa)
+[![PayPal](https://img.shields.io/badge/PayPal-Donate-00457C?logo=paypal&logoColor=white)]([https://paypal.me/ΤΟ_ΟΝΟΜΑ_ΣΟΥ](https://www.paypal.com/donate/?hosted_button_id=B6RDPBMTTTT5L))
